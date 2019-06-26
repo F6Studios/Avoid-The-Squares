@@ -66,7 +66,7 @@ timer.hideturtle()
 timer.goto(0, 410)
 timer.shapesize(stretch_len=20, stretch_wid=20)
 
-#By F6Studios
+#By LuckyDog Studios
 at = turtle.Turtle()
 at.speed(0)
 at.color("white")
@@ -74,7 +74,7 @@ at.penup()
 at.hideturtle()
 at.goto(0, -475)
 at.shapesize(stretch_len=20, stretch_wid=20)
-at.write("By F6Studios", align="center", font=("Courier", 24, "bold"))
+at.write("By LuckyDog Studios", align="center", font=("Courier", 24, "bold"))
 
 #Game Over
 gameover = turtle.Turtle()
